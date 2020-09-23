@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=brsvc\brsvc.vbp
+Project=dasvc\dasvc.vbp
+StartupProject=uisvc\PresentationLayer.vbp
